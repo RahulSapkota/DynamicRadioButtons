@@ -1,0 +1,12 @@
+F:\DynamicControls\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\DynamicControls\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\DynamicControls\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\DynamicControls\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+F:\DynamicControls\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
